@@ -1,0 +1,5 @@
+﻿  snakeGameC++.cpp
+C:\Users\gianl\Desktop\proyectos de programacion\snakeGameC++\snakeGameC++\snakeGameC++.cpp(22,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\gianl\Desktop\proyectos de programacion\snakeGameC++\snakeGameC++\snakeGameC++.cpp(203,9): warning C4244: 'argumento': conversión de 'double' a 'DWORD'; posible pérdida de datos
+C:\Users\gianl\Desktop\proyectos de programacion\snakeGameC++\snakeGameC++\snakeGameC++.cpp(223,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  snakeGameC++.vcxproj -> C:\Users\gianl\Desktop\proyectos de programacion\snakeGameC++\Debug\snakeGameC++.exe
